@@ -14,7 +14,7 @@ Procedural fur render on Unity default sphere
 ## Wind
 https://github.com/user-attachments/assets/2bce10bb-ea9a-48ab-92b3-8ff3005e18da
 
-##LoD
+## LoD
 https://github.com/user-attachments/assets/958344d7-9b99-42f7-95b2-f5bcb1191e16
 
 
