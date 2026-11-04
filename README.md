@@ -1,20 +1,23 @@
 
 # FurShader
 Procedural fur render on Unity default sphere
+
 ## Fur tufts render
-<img width="1280" height="694" alt="beaded" src="https://github.com/user-attachments/assets/5bd5c9a7-7765-4fbc-9376-e260612ab0a9" />
-<img width="1280" height="694" alt="curve" src="https://github.com/user-attachments/assets/3e4d9c73-a497-48cc-b1b9-7256ea4981a0" />
-<img width="1280" height="694" alt="leave" src="https://github.com/user-attachments/assets/4bfa20c0-af6c-487a-9941-034ba73fcd7b" />
+<img width="1280" height="694" alt="beaded" src="https://github.com/user-attachments/assets/002e6682-de59-4f73-99a2-f9bdca989465" />
+<img width="1280" height="694" alt="curve" src="https://github.com/user-attachments/assets/6267b47e-db08-40f3-a774-7756abe2c628" />
+<img width="1280" height="694" alt="leaves" src="https://github.com/user-attachments/assets/5bd76a6f-9b57-44af-a3e8-12960092b6a5" />
 
 ## Micro detail
-<img width="1280" height="694" alt="beaded_detail" src="https://github.com/user-attachments/assets/fab3eb92-f0ec-4fae-820b-16435053ce4b" />
-<img width="1280" height="694" alt="curve_detail" src="https://github.com/user-attachments/assets/5c2a0790-2ba2-4130-93bc-5d5c6b65820d" />
-<img width="1280" height="694" alt="leave_detail" src="https://github.com/user-attachments/assets/30c805ac-813f-4375-ba39-416aa4f6cb96" />
+<img width="1280" height="695" alt="beaded_detail" src="https://github.com/user-attachments/assets/256823cb-7aeb-467a-91b1-3d455db328d9" />
+<img width="1280" height="695" alt="curve_detail" src="https://github.com/user-attachments/assets/f373a2e1-adf3-4b81-ab48-860d88a8629e" />
+<img width="1280" height="695" alt="leaves_detail" src="https://github.com/user-attachments/assets/f75a4ce9-ea0b-4969-af27-13bb35877fd6" />
 
 ## Wind
-https://github.com/user-attachments/assets/2bce10bb-ea9a-48ab-92b3-8ff3005e18da
+https://github.com/user-attachments/assets/81642bd0-479c-4d31-831e-77d0c1a05411
 
 ## LoD
-https://github.com/user-attachments/assets/958344d7-9b99-42f7-95b2-f5bcb1191e16
+https://github.com/user-attachments/assets/c1371e8f-6175-44b3-addf-707e72b5c493
+
+
 
 
